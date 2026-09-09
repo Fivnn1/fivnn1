@@ -11,7 +11,7 @@ Currently, I am focusing on building a solid foundation in programming and explo
 - 📐 **Math & Physics for Games:** Applying vector mathematics, kinematics, and coordinate systems into gameplay mechanics.
 - 🛠️ **Current Tech Exploration:**
   - **Languages:** C#, C++, or Python
-  - **Engines / Frameworks:** Godot Engine / Unity / Raylib
+  - **Engines / Frameworks:** Godot Engine / Unity
   - **Version Control:** Git & GitHub
 
 ---
