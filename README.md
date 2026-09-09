@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi there, I'm Yusuf Alfianto 👋
 
-<!--
-**Fivnn1/fivnn1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring software engineer with a deep passion for **Game Development**. I enjoy understanding how interactive systems work under the hood, from game physics and mechanics to sound and visual logic.
 
-Here are some ideas to get you started:
+Currently, I am focusing on building a solid foundation in programming and exploring game engines through hands-on learning and small mechanics experiments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🎮 What I'm Focused On
+- 🕹️ **Game Development Fundamentals:** Learning core game loop concepts, input handling, and collision detection.
+- 📐 **Math & Physics for Games:** Applying vector mathematics, kinematics, and coordinate systems into gameplay mechanics.
+- 🛠️ **Current Tech Exploration:**
+  - **Languages:** C#, C++, or Python
+  - **Engines / Frameworks:** Godot Engine / Unity / Raylib
+  - **Version Control:** Git & GitHub
+
+---
+
+### 🛠️ Tech Stack & Tools (In Progress)
+
+<p align="left">
+  <!-- Bahasa Pemrograman -->
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <!-- Engine / Tools -->
+  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" alt="Godot" />
+  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
+---
+
+### 🎯 Current Milestones & Roadmap
+- [ ] Build classic arcade prototypes (*Pong*, *Flappy Bird*, *Breakout*) to master state management.
+- [ ] Create a modular 2D platformer movement system (jump physics, coyote time, dash mechanics).
+- [ ] Participate in my first beginner-friendly Game Jam on itch.io.
+- [ ] Document game development devlogs and mechanic breakdowns on GitHub.
+
+---
+
+### 📫 Connect With Me
+- **LinkedIn:** [Link ke LinkedIn kamu jika ada]
+- **Email:** [Alamat email kamu]
+
+<!-- Opsional: GitHub Stats Card -->
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=[USERNAME_GITHUB_KAMU]&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
