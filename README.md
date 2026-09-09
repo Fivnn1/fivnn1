@@ -40,8 +40,7 @@ Currently, I am focusing on building a solid foundation in programming and explo
 ---
 
 ### 📫 Connect With Me
-- **LinkedIn:** [Link ke LinkedIn kamu jika ada]
-- **Email:** [Alamat email kamu]
+- **Email:** yusufalfianto1080@gmail.com
 
 <!-- Opsional: GitHub Stats Card -->
 <p align="left">
