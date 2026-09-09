@@ -41,8 +41,3 @@ Currently, I am focusing on building a solid foundation in programming and explo
 
 ### 📫 Connect With Me
 - **Email:** yusufalfianto1080@gmail.com
-
-<!-- Opsional: GitHub Stats Card -->
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=[USERNAME_GITHUB_KAMU]&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
